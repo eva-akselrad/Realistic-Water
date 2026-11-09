@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+
+# Loom / Minecraft dev run directories
+run/
+.tmp-mc/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
